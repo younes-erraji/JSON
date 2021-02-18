@@ -1,0 +1,109 @@
+{
+  "name": {
+    "first": "Younes",
+    "last": "Erraji"
+  },
+  "age": 21,
+  "situatio": false,
+  "working": null,
+  "parent": [
+    "malika erraji",
+    "mohamed erraji"
+  ],
+  "brothers": {
+    "brother": "ayoub",
+    "sisters": [
+      "safae",
+      "ilham"
+    ]
+  },
+  "adresses": [
+    {
+      "Morocco": "Temara"
+    },
+    {
+      "Morocco": "Casa"
+    },
+    "Spain",
+    "Egypt"
+  ],
+  "Skills": {
+    "front-end": [
+      [
+        "HTML",
+        "PugJS"
+      ],
+      [
+        "CSS",
+        "Sass",
+        "SCSS"
+      ],
+      {
+        "Javascript": [
+          "JQuery",
+          "ECMAScript 6",
+          "NodeJS"
+        ]
+      }
+    ],
+    "back-end": [
+      "C",
+      "Java",
+      {
+        "C#": [
+          "Core",
+          "Framework"
+        ]
+      }
+    ]
+  },
+  "Skills-Progress": {
+    "front-end": [
+      [
+        {
+          "HTML": "98%"
+        },
+        {
+          "PugJS": "80%"
+        }
+      ],
+      [
+        {
+          "CSS": "88%"
+        },
+        {
+          "Sass": null
+        },
+        {
+          "SCSS": 70
+        }
+      ],
+      {
+        "Javascript": {
+          "JS": 80,
+          "Frameworks": [
+            {
+              "JQuery": 40
+            },
+            {
+              "ECMAScript 6": 26
+            },
+            {
+              "NodeJS": true
+            }
+          ]
+        }
+      }
+    ],
+    "back-end": [
+      "C",
+      "Java",
+      {
+        "C#": [
+          "Core",
+          "Framework"
+        ]
+      }
+    ]
+  }
+}
